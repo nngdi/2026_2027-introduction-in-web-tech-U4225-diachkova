@@ -1,4 +1,4 @@
-**Лабораторная работа №1. Основы работы с Docker**
+Лабораторная работа №1. Основы работы с Docker
 
 
 
@@ -22,7 +22,7 @@ Date of finished: —
 
 
 
-1\. Установка и проверка Docker
+1. Установка и проверка Docker
 
 
 
@@ -36,7 +36,7 @@ Date of finished: —
 
 
 
-!\[Docker Desktop](images/1.png)
+![Docker Desktop](images1.png)
 
 
 
@@ -66,7 +66,7 @@ docker --version
 
 
 
-!\[Проверка версии Docker](images/2.png)
+![Проверка версии Docker](images2.png)
 
 
 
@@ -80,7 +80,7 @@ docker --version
 
 
 
-!\[Запуск hello-world](images/3.png)
+![Запуск hello-world](images3.png)
 
 
 
@@ -110,15 +110,15 @@ docker ps -a
 
 
 
-!\[Основные команды Docker](images/4.png)
+![Основные команды Docker](images4.png)
 
 
 
-\---
+---
 
 
 
-2\. Работа с образом Ubuntu
+2. Работа с образом Ubuntu
 
 
 
@@ -140,7 +140,7 @@ docker pull ubuntu:latest
 
 
 
-!\[Загрузка Ubuntu](images/5.png)
+![Загрузка Ubuntu](images5.png)
 
 
 
@@ -158,7 +158,7 @@ docker pull ubuntu:latest
 
 
 
-!\[Запуск Ubuntu](images/6.png)
+![Запуск Ubuntu](images6.png)
 
 
 
@@ -170,7 +170,7 @@ docker pull ubuntu:latest
 
 
 
-!\[Обновление пакетов](images/7.png)
+![Обновление пакетов](images7.png)
 
 
 
@@ -194,15 +194,15 @@ apt update \&\& apt install -y curl
 
 
 
-!\[Установка curl](images/8.png)
+![Установка curl](images8.png)
 
 
 
-!\[Процесс установки curl](images/9.png)
+![Процесс установки curl](images9.png)
 
 
 
-!\[Завершение установки curl](images/10.png)
+![Завершение установки curl](images10.png)
 
 
 
@@ -238,7 +238,7 @@ exit
 
 
 
-!\[Проверка curl](images/11.png)
+![Проверка curl](images11.png)
 
 
 
@@ -246,7 +246,7 @@ exit
 
 
 
-3\. Запуск веб-сервера nginx
+3. Запуск веб-сервера nginx
 
 
 
@@ -278,8 +278,7 @@ docker ps
 
 
 
-!\[Запуск nginx](images/12.png)
-
+![Запуск nginx](images12.png)
 
 
 
@@ -306,7 +305,7 @@ Welcome to nginx!
 
 
 
-!\[Проверка nginx](images/13.png)
+![Проверка nginx](images13.png)
 
 
 
@@ -320,7 +319,7 @@ Welcome to nginx!
 
 
 
-!\[Логи nginx](images/14.png)
+![Логи nginx](images14.png)
 
 
 
@@ -334,13 +333,13 @@ Welcome to nginx!
 
 
 
-!\[Подключение к контейнеру](images/15.png)
+![Подключение к контейнеру](images15.png)
 
 
 
 
 
-4\. Управление контейнерами
+4. Управление контейнерами
 
 
 
@@ -414,7 +413,7 @@ docker ps
 
 
 
-!\[Управление контейнером](images/16.png)
+![Управление контейнером](images16.png)
 
 
 
@@ -432,7 +431,7 @@ docker ps
 
 
 
-!\[Удаление nginx](images/17.png)
+![Удаление nginx](images17.png)
 
 
 
@@ -440,7 +439,7 @@ docker ps
 
 
 
-5\. Работа с Docker Volumes
+5. Работа с Docker Volumes
 
 
 
@@ -454,7 +453,7 @@ docker ps
 
 
 
-!\[Создание Docker Volume](images/18.png)
+![Создание Docker Volume](images18.png)
 
 
 
@@ -486,7 +485,7 @@ Hello from volume
 
 
 
-!\[Проверка сохранения данных](images/19.png)
+![Проверка сохранения данных](images19.png)
 
 
 
@@ -494,7 +493,7 @@ Hello from volume
 
 
 
-6\. Проверка контейнеров в Docker Desktop
+6. Проверка контейнеров в Docker Desktop
 
 
 
@@ -508,7 +507,7 @@ Hello from volume
 
 
 
-!\[Контейнеры в Docker Desktop](images/20.png)
+![Контейнеры в Docker Desktop](images20.png)
 
 
 
