@@ -21,7 +21,7 @@
 |**Лабораторная работа №0**|[Отчет лаб 0](https://github.com/nngdi/2025_2026-introduction-in-web-tech-U4225-diachkova/blob/main/lab0/lab0_report.md)|
 |-|-|
 |**Лабораторная работа №1**|[Отчет лаб 1](https://github.com/nngdi/2025_2026-introduction-in-web-tech-U4225-diachkova/blob/main/lab1/lab1_report.md)|
-|Лабораторная работа №2||
+|**Лабораторная работа №2**|[Отчет лаб 2](https://github.com/nngdi/2026_2027-introduction-in-web-tech-U4225-diachkova/blob/main/lab2/lab2.md)|
 |Лабораторная работа №3||
 
 
